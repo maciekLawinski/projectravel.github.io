@@ -1,0 +1,22 @@
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1000%;
+    height: 10%;
+    background-color: grey;
+    text-align: center;
+    z-index: 1000;
+    font-size: 30px;
+    justify-content: space-between;
+    display: flex;
+    padding: 15px 20px;
+}
+div {
+    color: blue;
+
+}
+
+title{
+
+}
